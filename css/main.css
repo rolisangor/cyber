@@ -285,7 +285,7 @@ h3 {
   height: 0.25rem;
   top: 0.625rem;
   -webkit-transition: all .5s ease;
-  transition: all .5s ease;
+  transition: all .6s ease;
 }
 
 .nav__gamburger-active span:nth-child(2) {
